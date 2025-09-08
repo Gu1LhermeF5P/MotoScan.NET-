@@ -1,0 +1,8 @@
+C:\Users\larissa\Downloads\MotoScanNovo\MotoScan\obj\Debug\net9.0\MotoScan.csproj.AssemblyReference.cache
+C:\Users\larissa\Downloads\MotoScanNovo\MotoScan\obj\Debug\net9.0\MotoScan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larissa\Downloads\MotoScanNovo\MotoScan\obj\Debug\net9.0\MotoScan.AssemblyInfoInputs.cache
+C:\Users\larissa\Downloads\MotoScanNovo\MotoScan\obj\Debug\net9.0\MotoScan.AssemblyInfo.cs
+C:\Users\larissa\Downloads\MotoScanNovo\MotoScan\obj\Debug\net9.0\MotoScan.csproj.CoreCompileInputs.cache
+C:\Users\larissa\Downloads\MotoScanNovo\MotoScan\obj\Debug\net9.0\MotoScan.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\larissa\Downloads\MotoScanNovo\MotoScan\obj\Debug\net9.0\MotoScan.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\larissa\Downloads\MotoScanNovo\MotoScan\obj\Debug\net9.0\MotoScan.sourcelink.json
